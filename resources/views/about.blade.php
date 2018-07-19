@@ -9,4 +9,4 @@
             <div class="quote">Our about page!</div>
         </div>
     </div>
-@endsection
+    @endsection
